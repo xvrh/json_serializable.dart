@@ -32,7 +32,6 @@ Builder jsonPartBuilder({
       const JsonLiteralGenerator(),
     ],
     'json_serializable',
-    formatOutput: formatOutput,
   );
 }
 
